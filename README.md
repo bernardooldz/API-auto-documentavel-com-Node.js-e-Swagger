@@ -19,6 +19,38 @@ A API foi construída para fornecer um serviço simples e eficiente de gerenciam
 
 ---
 
+## 📸 **Fotos do Projeto**
+
+Abaixo estão algumas capturas de tela que mostram o funcionamento da API e da interface Swagger UI:
+
+1. **Tela inicial da Swagger UI**  
+   Aqui você pode ver a interface de documentação gerada automaticamente pela Swagger UI, que permite testar os endpoints diretamente.
+
+   ![Swagger UI - Tela inicial](https://github.com/user-attachments/assets/6c5b4588-b210-4030-b69b-15a17d3dc2e0)
+
+
+2. **Exemplo de requisição GET /users**  
+   Exibe o retorno de todos os usuários cadastrados ao realizar uma requisição GET para o endpoint `/users`.
+
+   ![GET /users](https://github.com/user-attachments/assets/96b7e07b-fe68-48ab-99f9-55124d4ae73d)
+
+
+3. **Exemplo de requisição POST /users**  
+   Mostra o formulário de envio de dados para criação de um novo usuário via requisição POST.
+
+   ![POST /users](https://github.com/user-attachments/assets/81efc96a-ab16-4f9e-863d-09b493fcd707)
+
+
+---
+
+### Como adicionar as imagens
+
+- Coloque as imagens na pasta do seu projeto, por exemplo, na pasta `assets/images`.
+- Substitua `caminho/para/imagem/screen1.png` pelos caminhos relativos das imagens no seu repositório.
+
+Se você não tiver as imagens agora, pode usar imagens de exemplo ou screenshots da documentação do Swagger UI, ou ainda capturas do funcionamento dos endpoints.
+
+
 ## 📡 **EndPoints Disponíveis**
 
 - **GET /users**  
