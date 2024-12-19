@@ -1,0 +1,13 @@
+node_modules/
+
+package-lock.json
+yarn.lock
+
+dist/
+*.js
+*.d.ts
+*.map
+
+.idea/
+.vscode/
+.DS_Store
