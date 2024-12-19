@@ -43,14 +43,6 @@ Abaixo estão algumas capturas de tela que mostram o funcionamento da API e da i
 
 ---
 
-### Como adicionar as imagens
-
-- Coloque as imagens na pasta do seu projeto, por exemplo, na pasta `assets/images`.
-- Substitua `caminho/para/imagem/screen1.png` pelos caminhos relativos das imagens no seu repositório.
-
-Se você não tiver as imagens agora, pode usar imagens de exemplo ou screenshots da documentação do Swagger UI, ou ainda capturas do funcionamento dos endpoints.
-
-
 ## 📡 **EndPoints Disponíveis**
 
 - **GET /users**  
