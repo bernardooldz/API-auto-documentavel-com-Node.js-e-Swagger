@@ -56,7 +56,7 @@ pnpm run dev
 
 A documentação da API está disponível via **Swagger UI** e pode ser acessada no seguinte endereço:
 
-[Documentação da API](http://localhost:3000/documentation)
+[Documentação da API](http://localhost:3333/docs)
 
 ---
 
